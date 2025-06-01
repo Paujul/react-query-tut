@@ -8,7 +8,14 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3+-green.svg)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-5+-purple.svg)](https://vitejs.dev/)
 
-![Demo Screenshot](![image](https://github.com/user-attachments/assets/ee70345e-246f-42a1-b7fb-4cfb016d5d2e))
+## Previews
+
+![image](https://github.com/user-attachments/assets/30a39cbd-7ce0-4451-9797-80fbad625515)
+
+### + React Query devtool for debugging
+
+![image](https://github.com/user-attachments/assets/78dddcdd-1cee-4c60-b334-54c19ecfe4f2)
+
 
 ## ✨ Features
 
