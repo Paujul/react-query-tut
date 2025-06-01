@@ -1,4 +1,4 @@
-# 🚀 React Query Posts Explorer
+# 🚀 React Query Posts Explorer (Vibe Coded 🗿)
 
 > A modern, production-ready React application showcasing best practices for data fetching with TanStack Query (React Query) and JSONPlaceholder API.
 
@@ -8,7 +8,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3+-green.svg)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-5+-purple.svg)](https://vitejs.dev/)
 
-![Demo Screenshot](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=React+Query+Posts+Explorer)
+![Demo Screenshot](![image](https://github.com/user-attachments/assets/ee70345e-246f-42a1-b7fb-4cfb016d5d2e))
 
 ## ✨ Features
 
@@ -66,23 +66,19 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/react-query-posts-explorer.git
-   cd react-query-posts-explorer
+   git clone https://github.com/Paujul/react-query-tut.git
+   cd react-query-tut
    ```
 
 2. **Install dependencies**
 
    ```bash
-   npm install
-   # or
    yarn install
    ```
 
 3. **Start the development server**
 
    ```bash
-   npm run dev
-   # or
    yarn dev
    ```
 
@@ -300,8 +296,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repo if you found it helpful!**
 
-[🐛 Report Bug](https://github.com/yourusername/react-query-posts-explorer/issues) · [✨ Request Feature](https://github.com/yourusername/react-query-posts-explorer/issues) · [💬 Join Discussion](https://github.com/yourusername/react-query-posts-explorer/discussions)
+[🐛 Report Bug](https://github.com/paujul/react-query-tut/issues) · [✨ Request Feature](https://github.com/paujul/react-query-tut/issues)
 
-Made with ❤️ and ⚛️ React
+Made with Claude Sonnet 4
 
 </div>
